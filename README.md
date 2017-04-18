@@ -7,4 +7,4 @@ Interacting with the `Google Maps API` for The Odin Project's [Project: Putting 
 3. Clicking the marker will bring up the message that was entered.
 4. `jQuery's Validate plugin` is also used to validate the form.
 
-[View my solution in your browser here](http://htmlpreview.github.io/?https://github.com/StefanieWang/JavaScript-google-maps)
+[View my solution in your browser here](http://htmlpreview.github.io/?https://github.com/StefanieWang/JavaScript-google-maps/blob/master/index.html)
